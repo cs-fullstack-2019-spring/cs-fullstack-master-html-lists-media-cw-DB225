@@ -5,6 +5,9 @@ li{
     position: relative;
     bottom: 250px;
     left: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
 }
 
 img{
@@ -26,6 +29,10 @@ body{
     background-color: burlywood;
 }
 
+/* KEY Don't need this 
 iframe{
     margin-left: 700px;
+    width: 100%;
+
 }
+*/

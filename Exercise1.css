@@ -9,3 +9,16 @@ h1{
     margin-left: 500px;
     margin-right: 500px;
 }
+
+
+#emli {
+	font-style: italic;
+}
+
+#emstr {
+	font-weight: bold;
+}
+
+.nobullet{
+    list-style-type: none;
+}
